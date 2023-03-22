@@ -23,6 +23,7 @@ const App: React.FC<Props> = ({value}) => {
         </button>
       </div>
       <p role="props">{value}</p>
+      <p>test change</p>
     </div>
   )
 }
