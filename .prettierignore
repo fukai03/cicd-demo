@@ -1,2 +1,5 @@
 *.svg
 *.xml
+coverage
+.github
+config
